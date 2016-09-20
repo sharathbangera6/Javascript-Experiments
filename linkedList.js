@@ -1,5 +1,5 @@
 function linkedList(){
-	this.head=null;
+  this.head=null;
   this.tail=null;
   this._length = 0;
 }
